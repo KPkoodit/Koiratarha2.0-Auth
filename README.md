@@ -1,6 +1,6 @@
 # Web2-project Koiratarha 2.0 / Authentication server
 
-Koiratarha 2.0 is a school project for Metropolia UAS Web-development 2 course. The main focus of the course was to develop the backend.
+Koiratarha 2.0 is a school project for Metropolia UAS Web-development 2 course created by a group of three students. The main focus of the course was to develop the backend.
 
 Koiratarha 2.0 is a web application that uses the MyHelsinki Open API to show various public dog parks and other dog related areas on a map. A user can register to the site to save their favourite locations and set reminders for visits to those locations. It is a convenient place for all dog owners to find nearby and fun places to visit. More features for the site are being planned constantly.
 
